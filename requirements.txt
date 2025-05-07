@@ -1,0 +1,12 @@
+streamlit
+numpy==1.26.4
+torch==2.6.0 
+torchaudio==2.6.0 
+torchvision==0.21.0 
+transformers 
+accelerate 
+bitsandbytes 
+sentence-transformers 
+faiss-gpu
+langchain_community
+datasets
